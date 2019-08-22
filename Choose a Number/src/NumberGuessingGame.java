@@ -5,7 +5,7 @@ public class NumberGuessingGame
 
 		public static void main(String[] args)
 			{
-				
+				//Test
 				Scanner userInput = new Scanner (System.in);
 				int gameLevel = userInput.nextInt();
 				System.out.println("What level would you like to play? Please enter 1,2, or 3. 1 = easy, 2 = medium, 3 = hard");
